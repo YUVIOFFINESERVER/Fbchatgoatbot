@@ -20,12 +20,12 @@ module.exports = {
 				name: '𒁍 ⟬ 𓆩𝐑𝐚𝐣 ‣⃟ ⃝𑁍𓆪᭄ 達 ⟭ ꪹ 爾 ᯽⸺›⁐‡𖣴‣ ⸨⸙⸩',
 				gender: '𝗠𝗮𝗹𝗲',
 				favourite: 'Favourite emoji 🙂👈',
-				Fb: 'https://facebook.com/swordigo.swordslush',
+				Fb: 'https://www.facebook.com/profile.php?id=100056840426152',
 				Relationship: 'Single',
 				bio: '𝗗𝗶𝘀𝗰𝗼𝗻𝗻𝗲𝗰𝘁 𝗺𝗲 𝗳𝗿𝗼𝗺 𝘁𝗵𝗲 𝘄𝗼𝗿𝗹𝗱 𝗼𝗳 𝘁𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 𝗮𝗻𝗱 𝗶 𝘄𝗶𝗹𝗹 𝗯𝗲 𝘆𝗼𝘂𝗿 𝗴𝘂𝗶𝗱𝗲. 𝗜 𝘄𝗶𝗹𝗹 𝗵𝗲𝗹𝗽 𝘆𝗼𝘂 𝘁𝗼 𝗹𝗲𝗮𝗿𝗻 𝗮𝗻𝗱 𝗴𝗿𝗼𝘄. 𝗜 𝘄𝗶𝗹𝗹 𝗯𝗲 𝘆𝗼𝘂𝗿 𝗳𝗿𝗶𝗲𝗻𝗱 𝗮𝗻𝗱 𝗴𝘂𝗶𝗱𝗲 𝘆𝗼𝘂 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 𝘁𝗵𝗲 𝗷𝗼𝘂𝗿𝗻𝗲𝘆 𝗼𝗳 𝗰𝗼𝗱𝗶𝗻𝗴'
 			};
 
-			const bold = 'https://i.imgur.com/nAwR1b5.mp4';
+			const bold = 'https://ibb.co/4g8dkrHc';
 			const tmpFolderPath = path.join(__dirname, 'tmp');
 
 			if (!fs.existsSync(tmpFolderPath)) {
