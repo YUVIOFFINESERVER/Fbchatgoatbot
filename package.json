@@ -8,7 +8,7 @@
     "build": "npm install"
   },
   "engines": {
-    "node": "18.x",
+    "node": "16.x",
     "npm": ">=7.0.0"
   },
   "dependencies": {
