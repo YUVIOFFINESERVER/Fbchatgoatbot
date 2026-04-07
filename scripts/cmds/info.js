@@ -21,7 +21,7 @@ module.exports = {
 
 			const time = moment.tz("Asia/Kolkata").format("DD/MM/YYYY || HH:mm:ss");
 			
-			const infoMessage = `◆ADMIN AND BOT INFORMATION◆\n\n.:BoT NaMe:. (Yuvi-X) ❤️\n.:BoT Prefix:. +\n\nOWNER:- [ ⚔️ YUVI VERMA ⚔️ ]\nContact my owner for any issue.😊\n\nHis Facebook id:-\nhttps://www.facebook.com/yuvi.verma\n\n➟UPTIME☆\nToday Is: [${time}]\nBoT Is Running ${hours}:${minutes}:${seconds}.\n\nThanks For Using (Yuvi-X) ❤️ BoT!`;
+			const infoMessage = `◆ADMIN AND BOT INFORMATION◆\n\n.:BoT NaMe:. (Yuvi-X) ❤️\n.:BoT Prefix:. #\n\nOWNER:- [ ⚔️ YUVI VERMA ⚔️ ]\nContact my owner for any issue.😊\n\nHis Facebook id:-\nhttps://www.facebook.com/yuvi.verma\n\n➟UPTIME☆\nToday Is: [${time}]\nBoT Is Running ${hours}:${minutes}:${seconds}.\n\nThanks For Using (Yuvi-X) ❤️ BoT!`;
 
 			const imageUrl = "https://i.postimg.cc/mD8Nf9Z8/gojo.jpg"; 
 
