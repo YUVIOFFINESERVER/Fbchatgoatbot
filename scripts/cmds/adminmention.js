@@ -1,8 +1,8 @@
 module.exports = {
 	config: {
 		name: "adminmention",
-		author: "Raj",
-		role: 0,
+		author: "Yuvi",
+		role: 2,
 		shortDescription: "Boss Nobita mention guard 💘",
 		longDescription: "",
 		category: "BOT",
@@ -10,7 +10,7 @@ module.exports = {
 	},
 
 	onChat: function({ api, event }) {
-		const adminUIDs = ["100001212940148", "100085303477541"];
+		const adminUIDs = ["61567276533610", "61567276533610"];
 		const taggedUIDs = Object.keys(event.mentions || {});
 		
 		for (const id of adminUIDs) {
